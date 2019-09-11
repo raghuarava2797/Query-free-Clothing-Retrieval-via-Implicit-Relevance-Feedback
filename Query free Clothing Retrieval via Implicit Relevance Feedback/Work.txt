@@ -1,0 +1,103 @@
+
+
+1. Web Image server   
+
+--- Login
+
+--- View users and give authorization
+
+
+--- View Sellers and give authorization
+
+--- View user's Request and generate secret key using RSA 
+
+--- Add Image Category and View all Categories
+
+--- View all Cloth images with Rank and FeedBacks
+
+--- View all User Purchased Cloths with All details 
+
+--- View All Cloth images with ranks in chart
+
+--- View All keyword  with ranks in chart
+
+--- View All Number of Feedbacks per each cloth  with scores in chart
+
+
+
+2.Online Seller
+
+
+---  Register with seller name like Amazon,Flipcart etc
+
+---  Login and View Profile
+
+--- Add Cloth Images with select Image Category(see Down),Cloth Image name,Price,Manufacturer,Cloth Desc,Color,Button shape,Wearing Season,Style,Gender For(list Box Male or Female), Add Cloth Image
+
+--- View All  Cloth images with scores and Feedback and give option to show similar images while clicking on some image and give Update(only contents and not images) and delete option
+
+--- View all User Purchased Cloths with All details and Total Bill
+
+
+
+3. Users 
+
+---  Register
+
+---  Login and View Profile
+
+--- Manage Account
+
+---  Requst Secret key to search images  and view secret key if it is generated in this page only
+
+--- Enter secret key to Search Cloth Images by key word(Seach in all attributes including Desc)and show only Cloth images and give click option to view related Cloth images(Note: give rank when u show only images 
+and give re rank while u view Cloth image detaisl with Feedbacks) and give feedbacks,give option to purchase cloth
+
+
+--- View all search transactions and give link to show number of time keyword is seached
+
+--- View all your Purchased Cloths with All details and Total Bill
+
+
+
+
+
+
+
+
+
+
+Note ::1. Must enc all image details except Cloth image name
+
+ 
+        2. Searching --- give option to add images with same image name again and again
+
+                     --- Give seach option to view related images based on image name matching
+
+
+ (Eg. If you search Apple,then it should display all apple fruits and Apple Os. If u click on apple fruit then it should display all apple fruits)
+
+
+
+
+Tags
+
+Color
+Button shape
+Season
+Category
+Style
+Gender For 
+
+
+Cloth Category
+
+Outerwear
+Pants 
+Shirts 
+Skirts
+Chuddidar
+
+
+
+
